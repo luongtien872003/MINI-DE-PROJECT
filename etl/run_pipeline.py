@@ -3,10 +3,7 @@
 Mini Data Engineering Project — Orders Revenue Pipeline
 ========================================================
 
-This pipeline processes raw orders and order items CSV files to compute
-daily revenue with comprehensive data quality validation.
-
-Author: Senior Data Engineer
+Author: Luong Minh Tien
 """
 
 import argparse
